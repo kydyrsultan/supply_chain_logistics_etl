@@ -1,0 +1,9 @@
+*.xlsx
+*.xls
+*.csv
+*.pbix
+!data/sample_input.xlsx
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+.env
