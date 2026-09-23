@@ -2,7 +2,9 @@
 *.xls
 *.csv
 *.pbix
-!data/sample_input.xlsx
+!data/psr_sample.xlsx
+!data/esr_sample.xlsx
+!data/ssr_sample.xlsx
 .DS_Store
 __pycache__/
 .ipynb_checkpoints/
